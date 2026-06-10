@@ -16,6 +16,15 @@
 
 ---
 
+
+## 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,mysql,git,github" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <!-- <p align="center">
